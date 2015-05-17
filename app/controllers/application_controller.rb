@@ -8,7 +8,7 @@ class ApplicationController < ActionController::Base
   end
 
   def hello2
-    render text: "hello, this is Atanu!"
+    render text: "hello, this is Atanu Majumdar!"
   end
 
 end
